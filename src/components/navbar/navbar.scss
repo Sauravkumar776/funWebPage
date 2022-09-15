@@ -1,0 +1,9 @@
+@import '../../styling/constants.scss';
+
+.navbar__container {
+    background-color: $navBarContainerColor;
+}
+
+.signIn_button {
+    color: $signInButtonColor;
+}
