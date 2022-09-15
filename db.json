@@ -1,0 +1,40 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "Chess Board",
+      "price": "$10",
+      "location": "New Delhi"
+    },
+    {
+      "id": 2,
+      "name": "Tshirt",
+      "price": "$15",
+      "location": "Mumbai"
+    },
+    {
+      "id": 3,
+      "name": "Jackets",
+      "price": "$17",
+      "location": "New Delhi"
+    },
+    {
+      "id": 4,
+      "name": "Trouser",
+      "price": "$13",
+      "location": "Pune"
+    },
+    {
+      "id": 5,
+      "name": "Cups",
+      "price": "$5",
+      "location": "New Delhi"
+    },
+    {
+      "id": 6,
+      "name": "Table",
+      "price": "$10",
+      "location": "Himachal Pradesh"
+    }
+  ]
+}
